@@ -1,1 +1,1 @@
-fisrt directory
+fisrt readme file updated
